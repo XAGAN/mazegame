@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6abe1f0-4efa-4b6e-82a6-6aa9f79a4f22" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a3eDdA9iltnfZggKcx4i6RpJpA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="MyMaze" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="MyMaze" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6abe1f0-4efa-4b6e-82a6-6aa9f79a4f22" name="Default Changelist" comment="" />
+      <created>1585968585298</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585968585298</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="21" key="#Inspections" timestamp="1585970003985">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="21" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1585970003985" />
+    <state x="137" y="13" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585986438305">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="13" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1585986438305" />
+    <state x="412" y="146" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585986424409">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="146" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1585986424409" />
+    <state x="387" y="0" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1585979397747">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="387" y="0" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1366.728@0.0.1366.728" timestamp="1585979397747" />
+    <state x="413" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585973788764">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1585973788764" />
+    <state x="463" y="125" key="FileChooserDialogImpl" timestamp="1586075802384">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="125" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586075802384" />
+    <state width="1306" height="498" key="GridCell.Tab.0.bottom" timestamp="1586336234041">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="498" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586336234041" />
+    <state width="1306" height="498" key="GridCell.Tab.0.center" timestamp="1586336234041">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="498" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586336234041" />
+    <state width="1306" height="498" key="GridCell.Tab.0.left" timestamp="1586336234041">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="498" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586336234041" />
+    <state width="1306" height="498" key="GridCell.Tab.0.right" timestamp="1586336234041">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="498" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586336234041" />
+    <state x="343" y="0" key="NewModule_or_Project.wizard" timestamp="1586075809428">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="343" y="0" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1586075809428" />
+    <state x="392" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1585982485961">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1585982485961" />
+    <state x="339" y="157" key="run.anything.popup" timestamp="1586049333530">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="157" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1586049333530" />
+  </component>
+</project>
